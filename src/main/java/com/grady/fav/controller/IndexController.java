@@ -32,22 +32,6 @@ import org.springframework.ui.Model;
 public class IndexController extends BaseController {
 
     /**
-     * index页面
-     */
-    @GetMapping("/index")
-    public String index(Model model) {
-        return "index";
-    }
-
-    /**
-     * Home 页面
-     */
-    @GetMapping("/")
-    public String home(Model model) {
-        return "home";
-    }
-
-    /**
      * Register页面
      */
     @GetMapping("/register")
