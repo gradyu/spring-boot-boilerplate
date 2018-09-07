@@ -20,8 +20,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 应用程序入口
- * Created by Grady on 2018/08/10.
+ * @brief:   应用程序入口
+ * @author:  Grady <yhwei876@gmail.com>
+ * @file:    DefaultErrorHandler.java
+ * @time:    2018-09-07
+ * @version: 1.0.0
  */
 @SpringBootApplication
 public class FavApplication {

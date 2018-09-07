@@ -24,8 +24,11 @@ import org.springframework.ui.Model;
 
 
 /**
- * 项目入口控制器
- * Created by Grady on 2018/08/10
+ * @brief:   项目入口控制器
+ * @author:  Grady <yhwei876@gmail.com>
+ * @file:    DefaultErrorHandler.java
+ * @time:    2018-09-07
+ * @version: 1.0.0
  */
 @Controller
 @RequestMapping("/")

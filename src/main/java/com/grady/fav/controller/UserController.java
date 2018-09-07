@@ -22,8 +22,11 @@ import com.grady.fav.web.BaseController;
 
 
 /**
- * 用户管理
- * Created by Grady on 2018/08/10.
+ * @brief:   用户管理
+ * @author:  Grady <yhwei876@gmail.com>
+ * @file:    DefaultErrorHandler.java
+ * @time:    2018-09-07
+ * @version: 1.0.0
  */
 @RestController
 @RequestMapping("/user")

@@ -16,6 +16,13 @@
 
 package com.grady.fav.common;
 
+/**
+ * @brief:   APP常量配置
+ * @author:  Grady <yhwei876@gmail.com>
+ * @file:    DefaultErrorHandler.java
+ * @time:    2018-09-07
+ * @version: 1.0.0
+ */
 public class Const {
     /**                 Cookie有效期                  */
     public static int COOKIE_EXPIRE = 86400; // 24*60*60
